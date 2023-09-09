@@ -1,2 +1,2 @@
 # Infix_to_Prefix
-This Repository contains a file that is able to convert an Infix Expression into Prefix Expression.
+An infix to postfix converter is a program or algorithm that takes an infix expression as input (where operators are placed between operands) and transforms it into a postfix expression (also known as Reverse Polish Notation or RPN), where operators come after their operands. This converter helps simplify mathematical expressions for easier evaluation, as postfix expressions can be evaluated efficiently using a stack-based approach. It's a useful tool in computer science and mathematics for handling complex mathematical expressions and mathematical equation parsing.
